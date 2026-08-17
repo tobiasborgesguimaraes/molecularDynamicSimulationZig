@@ -1,0 +1,7 @@
+# Gemini CLI Instructions
+GEMINI.md
+
+# Zig Build Artifacts & Cache
+zig-out/
+zig-cache/
+.zig-cache/
