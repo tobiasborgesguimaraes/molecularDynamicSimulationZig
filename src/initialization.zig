@@ -9,5 +9,5 @@ pub fn SetupJob() !void {
     try InitCoords();
     try InitVels();
     try AccumProps(0);
-    stepCount = 0;
+    num.stepCount = 0;
 }
